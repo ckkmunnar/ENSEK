@@ -1,0 +1,3 @@
+Issues noticed during API testing
+1. The bearer token validation is not happening in most of the endpoints  ex: get order endpoint
+2. The response message for the Buy endpoint is not correct -the units purchased and units remaining are wrongly mapped
